@@ -1,1 +1,0 @@
-Q-CORE v2 — PWA installable project. Upload all files to GitHub Pages. The financial UI is not connected to a real balance backend; deposit requests are review-only.
